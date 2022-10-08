@@ -28,6 +28,6 @@ In our report, we reported the following.
 2. Data analyses and visualizations
 
 # Overview  
-For this analysis, we connected to the twitter api using tweepy libarrr. We further got other datasets programmatically using pythons requests library and we had an archive dataset readily available which was used alongside the analysis. The html reports(act_report and wrangle_report) further explain our rational. The notebookfile is also self explanatory.  
+For this analysis, we connected to the twitter api using tweepy library. We further got other datasets programmatically using pythons requests library and we had an archive dataset readily available which was used alongside the analysis. The html reports(act_report and wrangle_report) further explain our rational. The notebook file is also self explanatory.  
   
   _This is my second project on udacity's data analyst nanodegree_
