@@ -4,7 +4,7 @@
 
 ## Introduction  
 
-This data that was wrangled, analyzed and visualized is the tweet archive of Twitter user @dog_rates, also known as WeRateDogs. WeRateDogs is a Twitter account that rates people's dogs with a humorous comment about the dog. These ratings almost always have a denominator of 10. The numerators, though? Almost always greater than 10. 11/10, 12/10, 13/10, etc. They believ the dogs are amaxing and warrant such amazing ratings that is why we joined them to share in thier amazement.
+This data that was wrangled, analyzed and visualized is the tweet archive of Twitter user @dog_rates, also known as WeRateDogs. WeRateDogs is a Twitter account that rates people's dogs with a humorous comment about the dog. These ratings almost always have a denominator of 10. The numerators, though? Almost always greater than 10. 11/10, 12/10, 13/10, etc. They believe the dogs are amaxing and warrant such amazing ratings that is why we joined them to share in thier amazement.
 
 # Context  
 
